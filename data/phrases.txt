@@ -105,8 +105,3 @@ puc pagar-li amb targeta?,can I pay you with the card?,5,5
 puc tornar-ho?,can I return this?,5,7
 poden tornar-me els diners?,can I get my money back?,5,8
 vull canviar 100€ en lliures,i want to change 100€ to pounds,5,9
-
-
-
-
-
