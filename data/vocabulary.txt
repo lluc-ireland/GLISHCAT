@@ -1,0 +1,145 @@
+text_en,text_ca,id,sound_id
+taxi,taxi,1.1,1
+taxista,taxi driver,1.1,2
+agafar un taxi,get a Taxi,1.1,3
+trucar a un taxi,call a taxi,1.1,4
+direcció,direction,1.1,5
+adreça,address,1.1,6
+aeroport,airport,1.2,1
+seient,seat,1.2,2
+despegar,take off,1.2,3
+aterrar,land,1.2,4
+equipatge,luggage,1.2,5
+pilot,pilot,1.2,6
+volar,fly,1.2,7
+passaport,passport,1.2,8
+aduana,customs,1.2,9
+plataforma,platform,1.3,1
+tren,train,1.3,2
+estació de tren,train station,1.3,3
+tren de llarga distància,long distance train,1.3,4
+autobús,bus,1.4,1
+parada de bus,bus stop,1.4,2
+horari d'autobús,bus timetable,1.4,3
+autobús interurbà,intercity bus,1.4,4
+ùltima parada,last stop,1.4,5
+Farmàcia,farmacy,2.1,1
+Febre,fever,2.1,2
+mal de cap,headache,2.1,3
+mal de panxa,stomachache,2.1,4
+tos,cough,2.1,5
+refredat,have a cold,2.1,6
+grip,flu,2.1,7
+bolquers,nappie,2.1,8
+nausea,nausea,2.1,9
+diarrea,diarrhea,2.1,10
+restrenyiment,constipation,2.1,11
+mal a l’esquena,back pain,2.1,12
+mal al pit,chest pain,2.1,13
+dolor d’abdominal,abdominal pain,2.1,14
+flato,cramp,2.1,15
+pastilla,pill,2.1,16
+crema,cream,2.1,17
+xarop,syrup,2.1,18
+gotes,drops,2.1,19
+recepte del metge,doctor's prescription,2.1,20
+termòmetre,thermometre,2.1,21
+no em trobo bé,im not feeling well,2.2,1
+em fa mal…,my…. hurts,2.2,2
+filla,daughter,2.2,3
+fill,son,2.2,4
+pare,father,2.2,5
+mare,mother,2.2,6
+cap,head,2.2,7
+mal de Cap,headache,2.2,8
+mal de panxa,stomachache,2.2,9
+mal a l’esquena,back pain,2.2,10
+mal al pit,chest pain,2.2,11
+dolor d’abdominal,abdominal pain,2.2,12
+ferida,injury,2.2,13
+alcohol,alcohol,2.2,14
+picada,bite,2.2,15
+inflamació ,inflammation,2.2,16
+insolació,sunstroke,2.2,17
+mercat,market,3.1,1
+parada,market Stall,3.1,2
+verdura,vegetables,3.1,3
+carbassó,courgette,3.1,4
+patates,potatoes,3.1,5
+pebrot,pepper,3.1,6
+tomàquet,tomato,3.1,7
+albergínia,aubergine,3.1,8
+moniato,sweet potato,3.1,9
+enciam,lettuce,3.1,10
+mongeta,bean,3.1,11
+ceba,onion,3.1,12
+all,garlic,3.1,13
+pastanaga,carrot,3.1,14
+olives,olives,3.1,15
+cogombre,cucumber,3.1,16
+ferreteria,hardware store,3.2,1
+clau,key,3.2,2
+martell,hammer,3.2,3
+tornavís,screwdriver,3.2,4
+cargol,screw,3.2,5
+metro,meter,3.2,6
+pintura,paint,3.2,7
+pinzell,brush,3.2,8
+vernís,varnish,3.2,9
+serra ,saw,3.2,10
+bombeta,light Bulb,3.2,11
+piles,batteries ,3.2,12
+carn,meat,3.3,1
+embotit,cold meat,3.3,2
+pit,breast,3.3,3
+cuixa,thigh,3.3,4
+espatlla,shoulder,3.3,5
+porc,porc,3.3,6
+pollastre,chicken,3.3,7
+croquettes,croquettes,3.3,8
+carn picada,mince,3.3,9
+pinchos,skewers,3.3,10
+formatge,cheese,3.3,11
+pernil,ham,3.3,12
+salsitxa,sausage,3.3,13
+hamburguesa,hamburger,3.3,14
+gall d’indi,turkey,3.3,15
+ous,eggs,3.3,16
+forn de pa,bakery,3.4,0
+pa,bread,3.4,1
+torrada,toast,3.4,2
+entrepà,sandwich,3.4,3
+magdalena,cupcake,3.4,4
+pastís,cake,3.4,5
+barra de pa,loaf of bread,3.4,6
+pa blanc,white bread,3.4,7
+pa integral,wholemeal bread,3.4,8
+pa sense sal,bread without salt,3.4,9
+croissant,croissant,3.4,10
+farina,flour,3.4,11
+robar,steal,4,1
+passaport,passport,4,2
+cartera,wallet,4,3
+documentació,documentation,4,4
+bitllet,ticket,4,5
+diners,money,4,6
+mòbil,phone,4,7
+ferida,injury,4,8
+cremada,burn,4,9
+caiguda,fall,4,10
+ambulancia,ambulance,4,11
+policia,police,4,12
+bombers,fireman,4,13
+diners,money,5,1
+efectiu,cash,5,2
+monedes,coins,5,3
+pagar,pay,5,4
+gratis,free,5,5
+targeta,card,5,6
+bitllet,banknote,5,7
+xec,check,5,8
+canvi,change,5,9
+deute,debt,5,10
+comissions,commissions,5,11
+
+

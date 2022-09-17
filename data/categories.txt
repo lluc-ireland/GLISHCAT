@@ -1,0 +1,16 @@
+text_en,text_ca,id
+transport,transport,1
+health,salud,2
+shops,botigues,3
+accidents,accidents,4
+money,diners,5
+taxi,taxi,1.1
+plane,avió,1.2
+train,tren,1.3
+bus,autobús,1.4
+pharmacy,farmàcia,2.1
+hospital,hospital,2.2
+market,mercat,3.1
+hardware store,ferretaria,3.2
+butcher's shop,carnisseria,3.3
+bakery,forn de pa,3.4

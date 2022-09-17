@@ -1,0 +1,112 @@
+text_en,text_ca,id,sound_id
+on puc agafar un taxi?,where can I find a taxi?,1.1,1
+em pots demanar un taxi?,can you call a taxi for me?,1.1,2
+quina és la teva direcció?,what is your address?,1.1,3
+em pots portar a…?,can you take me to…?,1.1,4
+quant costa anar fins a…?,how much is it to get  to…?,1.1,5
+gira a l’esquerra,turn left,1.1,6
+gira a la dreta,turn right,1.1,7
+"para aquí, siusplau","stop here, please",1.1,8
+quan surt l'avió?,when does the plane take off?,1.2,1
+on estàn els lavabos,where are the toilets?,1.2,2
+quan aterrarem?,when are we going to land?,1.2,3
+on deixo les maletes,where do I leave the  luggage?,1.2,4
+aqui tens el pàssaport, here is my passport,1.2,5
+saps alguna cosa del pilot?,do you know something of the pilot?,1.2,6
+on està el control de seguretat?,where is the security control?,1.2,7
+aquest es el meu seient no?,this is my seat right?,1.2,8
+on va aquest tren?,where does this train go?,1.3,1
+quan pasa el següent tren?,when’s  the next train coming?,1.3,2
+està lliure aquest seient?,is this seat free?,1.3,3
+puc seure aquí?,can I sit here? ,1.3,4
+no tinc bitllet,i don’t have a ticket,1.3,5
+on venen els bitllets?,where can I buy the ticket?,1.3,6
+on és la parada de bus més pròxima?,where’s the closest bus stop?,1.4,1
+on va aquest autobús?,where is this bus going?,1.4,2
+quin bus he d’agafar si vull anar a…?,which bus do I have catch to go to…?,1.4,3
+està lliure aquest seient?,is this seat free?,1.4,4
+on puc veure l’horari?,where can I see the timetable?,1.4,5
+quan arriba el següent autobús?,when does the next bus arrive?,1.4,6
+"perdona, aquest és la meva parada",excuse me is this my stop?,1.4,7
+està oberta ara?,is it open now?,2.1,1
+a quina hora tanca?,at what time does it shut?,2.1,2
+on és la farmàcia més propera?,can you tell me where the closest pharmacy is?,2.1,3
+em podria donar alguna cosa per alleugerir ..,could you recomend something to help my…?,2.1,4
+em fa mal el …?,my … hurts,2.1,5
+quantes … al dia m’haig de prendre?,how many … a day do I have to take?,2.1,6
+ajuda’m sisplau,please help me,2.2,1
+no em trobo bé,i’m not feeling well,2.2,2
+el meu … no es troba bé,my …. isn’t feeling well.,2.2,3
+estic …,i’m …,2.2,4
+quants dies estaré a l’hospital?,how many days will I be at this hospital?,2.2,5
+quines proves em faran?,what tests will they do?,2.2,6
+em pot visitar la meva familia?,can my family come?,2.2,7
+quin num. d’habitació estic?,in which room number am I?,2.2,8
+em pot ajudar a aixecar-me del llit?,can you help me get out of bed?,2.2,9
+em pot acompanyar al lavabo?,can you help me go to the toilet?,2.2,10
+que venen a aquella parada?,what do they sell in that Stall?,3.1,1
+on son els ….?,where are the …? ,3.1,2
+em pots posar tres …?,can you give me four …?,3.1,3
+vull un kilo de …,i want a pound of…,3.1,4
+quant val?,how much is it?,3.1,5
+vull els … més madurs,i want the … more ripe,3.1,6
+quan pesa aquest meló?,how much does it weigh?,3.1,7
+pesi’m aquest meló,how much does this melon weigh?,3.1,8
+com es diu aquesta fruita?,how would you call this fruit in English?,3.1,9
+teniu…?,do you have…?,3.1,10
+on és la secció de …?,where is the … section?,3.2,1
+creus que la mida és correcta?,do you think the size is correct?,3.2,2
+de quin material és?,what’s this piece made of?,3.2,3
+podeu fer un duplicat d’aquestes claus?,can you duplicate these keys?,3.2,4
+teniu piles per aquesta radio?,do you have batteries for this radio?,3.2,5
+necessito un llanterna…,i need a … torch,3.2,6
+aquesta bombeta és LED?,is this light bulb led?,3.2,7
+em pots posar un kilo de …,can I have one pound of...?,3.3,1
+també vull una mica d’embotit,i also want a bit of cold meat,3.3,2
+em pots treure els ossos de…?,can you take the bones out of…?,3.3,3
+em pots picar la carn?,can you mince the meat?,3.3,4
+quant val?,how much is it?,3.3,5
+aquestes … són picants?,are these … hot?,3.3,6
+"en talls fins, sisplau","in thin cuts, please",3.3,7
+"més gruixut","thicker,please",3.3,8
+aquest tros és massa gras,this piece is too fatty,3.3,9
+té pollastre rostit?,do you have roast chicken?,3.3,10
+vull mitja dotzena d’ous,i want half a dozen eggs,3.3,11
+voldria una …?,i would like a …?,3.4,1
+de que està feta aquesta Magdalena,what’s the cupcake made of?,3.4,2
+puc menjar-ho si sóc celìac?,can I have that If I’m Celiac?,3.4,3
+quant val?,how much is it?,3.4,4
+em pot tallar el pa?,can you cut the bread?,3.4,5
+teniu espelmes pel pastís?,do you have candles for the cake?,3.4,6
+m’ho pot embolicar per a regal?,can you wrap it as a present?,3.4,7
+aquests bombons tenen alcohol?,do these chocolates contain alcohol?,3.4,8
+pots trucar una Ambulància?,can you call an ambulance?,4,1
+em fa mal aquí!,it hurts here!,4,2
+treu-me d’aqui,get me out of here,4,3
+és greu?,is it serious?,4,4
+és urgent,it’s important,4,5
+no em puc moure ,i can’t move,4,6
+tinc una ferida,i have an injury,4,7
+he caigut,i fell ,4,8
+sóc diabètic,i’m diabetic,4,9
+no fumo,i don’t smoke,4,10
+fumo,i smoke,4,11
+no bec alcohol,i don’t drink alcohol,4,12
+bec una copa al dia,i drink a cup per day,4,13
+no tinc assegurança de salut,i don’t have health insurance,4,14
+tinc assegurança internacional,i have international insurance,4,15
+sóc al·lèrgic a la penicil·lina,i’m allergic to penicillin,4,16
+és gratis això?,is this free?,5,1
+quant val?,how much is it?,5,2
+es pot pagar a plaços?,can it be paid in installments?,5,3
+puc fer-li una transferencia?,can I make a transfer?,5,4
+puc pagar-li amb targeta?,can I pay you with the card?,5,5
+és vàlid aquest cupó de descompte?,is this coupon valid?,5,6
+puc tornar-ho?,can I return this?,5,7
+poden tornar-me els diners?,can I get my money back?,5,8
+vull canviar 100€ en lliures,i want to change 100€ to pounds,5,9
+
+
+
+
+

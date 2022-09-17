@@ -1,0 +1,4 @@
+text_en,text_ca,id
+Welcome to GLISHCAT,Benvinguts a GLISHCAT,welcome
+Vocabulary,Vocabulari,vocabulary
+Phrases,Frases,phrases
