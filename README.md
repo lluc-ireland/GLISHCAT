@@ -24,3 +24,7 @@ Once installed, you can install pygame with:
 To run **GLISHCAT**, nagivate to the src folder and from a command prompt type:
 
     C:\Users\Lluc\source\repos\GLISHCAT\src>py vocab_ui.py
+    
+If successful, you will see the app's first window:
+
+![GLISHCAT Python application](img/GLISHCAT_2022-09-17.png "GLISHCAT Python application")
